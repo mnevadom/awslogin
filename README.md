@@ -1,6 +1,6 @@
 # LOGIN Action IBMCloud
 
-This action is to login into IBM Cloud
+This action is to login into AWS Cloud
 
 ## Entradas
 
